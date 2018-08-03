@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">API Contacts</string>
+    <string name="str_search">Введіть дані</string>
+    <string name="search">Щукати</string>
+    <string name="like">Обрані</string>
+    <string name="profession">Професія</string>
+    <string name="posada">Посада</string>
+    <string name="PDF">PDF</string>
+
+    <string name="testName">Іванов Іван Іванович</string>
+    <string name="pos_tv_nazva">Посада: </string>
+    <string name="pos_ms_nazva">Місце роботи: </string>
+    <string name="comment">Коментар: </string>
+
+    <string name="no">Відмінити</string>
+    <string name="save">Зберегти</string>
+    <string name="yes">Додати</string>
+    <string name="like_1">Видалити</string>
+    <string name="test_comment">text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text </string>
+    <string name="yout_comment">Коментарій</string>
+    <string name="accept_dell">Підствердіть видалення контакту з списку обраних</string>
+    <string name="error_connection">Помилка доступу до інтернет! Перевірте ваше підключення</string>
+    <string name="reload">Повторити</string>
+</resources>

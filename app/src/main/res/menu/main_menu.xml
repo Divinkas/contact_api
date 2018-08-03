@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/searchMenuItem"
+        android:title="@string/search"
+        android:icon="@drawable/search_ico"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/likeMenuItem"
+        android:title="@string/like"
+        android:icon="@drawable/star"
+        app:showAsAction="ifRoom"/>
+</menu>
